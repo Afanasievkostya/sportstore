@@ -3,8 +3,7 @@
 
 (function () {
 
-
-	// вставляем рекламные блоки по нумерации
+   // вставляем рекламные блоки по нумерации
 
 	var productTemplate = document.getElementById('product-template').content;
 
