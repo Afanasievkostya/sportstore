@@ -496,6 +496,8 @@ h4 {
 .advertising-element {
 	background: url("../img/Rectangle5.png") no-repeat center;
 	background-size: cover;
+	transform: scale(0);
+	transition: transform 3s;
 }
 
 .advertising {
@@ -537,6 +539,8 @@ h4 {
 
 .product-template {
 	background-color: #232323;
+	transform: scale(0);
+	transition: transform 3s;
 }
 
 .product-template--card {
